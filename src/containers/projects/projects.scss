@@ -1,0 +1,78 @@
+
+.project-main-title{
+    font-size: 56px;
+    font-weight: 400;
+}
+
+@import "../../_globalColor";
+
+.projects-cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    row-gap: 20px;
+    column-gap: 100px;
+    width: 100%;
+}
+
+.projects-card{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    min-width: 70%;
+}
+
+
+.projects-card-title{
+    border-bottom: 1px solid $subTitle;
+    color: $subTitle;
+    display: inline-block;
+    font-size: 22px;
+    min-width: 320px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.projects-card-img {
+    border-radius: 8px;
+    height: 250px;
+    object-fit: cover;
+    max-width: 100%;  
+    transition: all 600ms;
+}
+
+.projects-card-img:hover{
+    transform: scale(1.1, 1.1) !important;
+}
+
+.projects-card-footer{
+    align-items: center;
+    column-gap: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.icon-button-project i {
+  color: $textColorDark;
+  cursor: pointer;
+  font-size: 1.6rem;
+  width: 2.6rem;
+  transition: 0.2s ease-in;
+}
+
+.icon-button-project i:hover {
+    opacity: 0.7;
+}
+
+@media (max-width: 1232px){
+    .projects-cards {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 768px){
+    .projects-cards {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,26 @@
+@import "../../_globalColor";
+
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.image{
+  height: 50px;
+  width: 50px;
+}
+
+.software-skill-inline > p {
+  color: $subTitle;
+  font-size: 15px;
+}

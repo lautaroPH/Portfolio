@@ -1,0 +1,25 @@
+{
+  "short_name": "Portfolio",
+  "name": "Portfolio",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://res.cloudinary.com/dv1ksnrvk/image/upload/v1643993870/hotpot_icon33x33_qnt7og.png",
+      "type": "image/png",
+      "sizes": "33x33"
+    },
+    {
+      "src": "https://res.cloudinary.com/dv1ksnrvk/image/upload/v1643993879/hotpot_icon20x20_ztzmw0.png",
+      "type": "image/png",
+      "sizes": "20x20"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6c63ff",
+  "background_color": "#171c28"
+}

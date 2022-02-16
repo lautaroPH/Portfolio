@@ -1,0 +1,65 @@
+@import "../../_globalColor";
+
+.social-media-div {
+  font-size: 2em;
+}
+
+.icon-button-bigger {
+  margin-bottom: 10px;
+}
+
+.icon-button-bigger i {
+  color: $textColorDark;
+  border-radius: 1rem;
+  cursor: pointer;
+  font-size: 4.5rem;
+  height: 7rem;
+  width: 7rem;
+  line-height: 7rem;
+  margin: 0 5px;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-bottom: 10px;
+  transition: 0.2s ease-in;
+}
+
+.facebook i {
+  background-color: $faceBook;
+}
+
+.linkedin i {
+  background-color: $linkedin;
+}
+
+.github i {
+  background-color: $github;
+}
+
+.google i {
+  background-color: $google;
+}
+
+.whatsapp i {
+  background-color: $whatsapp;
+}
+
+/* Hover Transition */
+.google i:hover,
+.github i:hover,
+.linkedin i:hover,
+.facebook i:hover,
+.whatsapp i:hover {
+  opacity: 0.7;
+}
+
+/* Media Query */
+@media (max-width: 768px) {
+  .social-media-div {
+    text-align: center;
+  }
+}
