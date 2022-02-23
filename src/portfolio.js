@@ -45,7 +45,7 @@ const aboutMe = {
 
 const socialMediaLinks = {
   github: "https://github.com/lautaroPH",
-  linkedin: "https://www.linkedin.com/in/lautaro-perez-h-9ab809230/",
+  linkedin: "https://www.linkedin.com/in/lautaroperezh/",
   gmail: "lautaroph@gmail.com",
   facebook: "https://www.facebook.com/lautaro.perezh/",
   display: true
@@ -53,7 +53,7 @@ const socialMediaLinks = {
 
 const socialMediaLinksToContact = {
   github: "https://github.com/lautaroPH",
-  linkedin: "https://www.linkedin.com/in/lautaro-perez-h-9ab809230/",
+  linkedin: "https://www.linkedin.com/in/lautaroperezh/",
   gmail: "lautaroph@gmail.com",
   facebook: "https://www.facebook.com/lautaro.perezh/",
   whatsapp: "https://wa.me/5492213641472",

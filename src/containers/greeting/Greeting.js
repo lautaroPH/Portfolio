@@ -6,7 +6,7 @@ import landingPerson from "../../assets/lottie/landingPerson";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
-import CV from "../../assets/images/CV.pdf";
+import CV from "../../assets/images/CV-LautaroPerezHerrera.d4353ce7.pdf";
 import {illustration, greeting} from "../../portfolio";
 
 export default function Greeting() {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08343bdc5406b5f465feb05598cdb571",
+    "revision": "0892321069256a316c75a72ef282b9f5",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "0c288ccf18342d621d06",
-    "url": "/Portfolio/static/css/main.bcccf112.chunk.css"
+    "revision": "72150cd2672cb5865054",
+    "url": "/Portfolio/static/css/main.8b452b24.chunk.css"
   },
   {
     "revision": "4d70766c33b53879b7cf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.24da6f72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c288ccf18342d621d06",
-    "url": "/Portfolio/static/js/main.87393f5c.chunk.js"
+    "revision": "72150cd2672cb5865054",
+    "url": "/Portfolio/static/js/main.0481e5f6.chunk.js"
   },
   {
     "revision": "f018865fc09abe7d9514",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "d4353ce7f3d6b107eeff93f1eac21d16",
-    "url": "/Portfolio/static/media/CV.d4353ce7.pdf"
+    "revision": "0b1473a85f444ef69811f112d78794a9",
+    "url": "/Portfolio/static/media/CV-LautaroPerezHerrera.d4353ce7.0b1473a8.pdf"
   },
   {
     "revision": "f0ff21b70ba9bed2943464e0e4e3c560",
