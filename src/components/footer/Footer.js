@@ -16,16 +16,6 @@ export default function Footer() {
             Lautaro Perez Herrera
           </a>
         </p>
-        <p className="footer-text-subtitle">
-          Design based on{" "}
-          <a
-            href="https://github.com/saadpasta/developerFolio"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            saadpasta's portfolio
-          </a>
-        </p>
       </div>
     </Fade>
   );

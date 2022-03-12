@@ -14,12 +14,14 @@ import npm from "./assets/images/npm.png";
 import firebase from "./assets/images/firebase.png";
 import git from "./assets/images/git.png";
 import express from "./assets/images/express.png";
+import graphql from "./assets/images/graphql.png";
 
 import musicopyImg from "./assets/images/Musicopy-image.png";
 import blogImg from "./assets/images/React-blog-image.png";
 import searchGifImg from "./assets/images/Search-gif.png";
 import todoappImg from "./assets/images/Todoapp-image.png";
-import memotestPokemonImg from "./assets/images/Memotest-image.png"
+import memotestPokemonImg from "./assets/images/Memotest-image.png";
+import rickAndMorty from "./assets/images/Rick-and-Morty.png";
 
 const illustration = {
   animated: true
@@ -60,13 +62,7 @@ const socialMediaLinksToContact = {
   display: true
 };
 
-const projects = [
-  {
-    title: "Musicopy",
-    image: musicopyImg,
-    urlPage: "https://musicopy-02.vercel.app",
-    urlCode: "https://github.com/lautaroPH/musicopy"
-  },
+const mainProjects = [
   {
     title: "Blog",
     image: blogImg,
@@ -74,10 +70,25 @@ const projects = [
     urlCode: "https://github.com/lautaroPH/react-blog"
   },
   {
-    title: "Todoapp",
-    image: todoappImg,
-    urlPage: "https://lautaroph.github.io/Todo-app/",
-    urlCode: "https://github.com/lautaroPH/Todo-app"
+    title: "Memotest Pokemon",
+    image: memotestPokemonImg,
+    urlPage: "https://lautaroph.github.io/memotestPokemon/",
+    urlCode: "https://github.com/lautaroPH/memotestPokemon"
+  },
+  {
+    title: "Rick and Morty",
+    image: rickAndMorty,
+    urlPage: "https://rick-and-morty-theta-three.vercel.app",
+    urlCode: "https://github.com/lautaroPH/rickAndMorty"
+  }
+];
+
+const moreProjects = [
+  {
+    title: "Musicopy",
+    image: musicopyImg,
+    urlPage: "https://musicopy-02.vercel.app",
+    urlCode: "https://github.com/lautaroPH/musicopy"
   },
   {
     title: "Search Gifs",
@@ -86,10 +97,10 @@ const projects = [
     urlCode: "https://github.com/lautaroPH/react-gifexpertapp"
   },
   {
-    title: "Memotest Pokemon",
-    image: memotestPokemonImg,
-    urlPage: "https://lautaroph.github.io/memotestPokemon/",
-    urlCode: "https://github.com/lautaroPH/memotestPokemon"
+    title: "Todoapp",
+    image: todoappImg,
+    urlPage: "https://lautaroph.github.io/Todo-app/",
+    urlCode: "https://github.com/lautaroPH/Todo-app"
   }
 ];
 
@@ -148,6 +159,10 @@ const skillsSection = {
       image: mongodb
     },
     {
+      skillName: "Graphql",
+      image: graphql
+    },
+    {
       skillName: "Npm",
       image: npm
     },
@@ -175,5 +190,6 @@ export {
   skillsSection,
   contactInfo,
   socialMediaLinksToContact,
-  projects
+  mainProjects,
+  moreProjects
 };

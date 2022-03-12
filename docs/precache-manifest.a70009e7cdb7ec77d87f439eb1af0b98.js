@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0892321069256a316c75a72ef282b9f5",
+    "revision": "58077a5ba06d27faa2487ba29516fa47",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "72150cd2672cb5865054",
-    "url": "/Portfolio/static/css/main.8b452b24.chunk.css"
+    "revision": "ae70aeb96a2b2549243e",
+    "url": "/Portfolio/static/css/main.1a22b08c.chunk.css"
   },
   {
-    "revision": "4d70766c33b53879b7cf",
-    "url": "/Portfolio/static/js/2.24da6f72.chunk.js"
+    "revision": "0a0f7bc78f85b6fb5bc1",
+    "url": "/Portfolio/static/js/2.4a9caf3f.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/Portfolio/static/js/2.24da6f72.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.4a9caf3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72150cd2672cb5865054",
-    "url": "/Portfolio/static/js/main.0481e5f6.chunk.js"
+    "revision": "ae70aeb96a2b2549243e",
+    "url": "/Portfolio/static/js/main.3921c835.chunk.js"
   },
   {
     "revision": "f018865fc09abe7d9514",
@@ -48,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/React-blog-image.1649a237.png"
   },
   {
+    "revision": "6eda28447b15dde5d65582cd870d0f00",
+    "url": "/Portfolio/static/media/Rick-and-Morty.6eda2844.png"
+  },
+  {
     "revision": "00b5da5830c1ab658a83ed485bc0c267",
     "url": "/Portfolio/static/media/Search-gif.00b5da58.png"
   },
@@ -66,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/Portfolio/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "36929981c9b87a1a93b946382d2ad20b",
+    "url": "/Portfolio/static/media/graphql.36929981.png"
   },
   {
     "revision": "97f10d2ffa74f3c94518e656eda2007d",

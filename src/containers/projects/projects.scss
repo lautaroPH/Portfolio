@@ -61,6 +61,37 @@
   transition: 0.2s ease-in;
 }
 
+.buttonProjectsSee {
+    background-color: $buttonColor;
+    border: solid 1px $buttonColor;
+    color: $textColorDark;
+    font-weight: 700;
+    width: max-content;
+    padding: 13px 22px;
+    text-transform: uppercase;
+    border-radius: 6px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out 0s;
+  }
+
+.buttonProjectsSee:hover {
+    background-color: $darkBoxShadow2;
+    color: $buttonColor;
+    transition: all 0.3s ease 0s;
+    transform: translateY(-3px);
+}
+
+.buttonProjectsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .icon-button-project i:hover {
     opacity: 0.7;
 }
@@ -75,4 +106,15 @@
     .projects-cards {
         grid-template-columns: 1fr;
     }
+    .main-button {
+        font-size: 15px;
+        padding: 12px 18px;
+        margin-right: 0px;
+      }
 }
+  @media (max-width: 320px) {
+    .main-button {
+      font-size: 12px;
+    }
+  }
+  
