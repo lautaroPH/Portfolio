@@ -3,7 +3,6 @@ import emoji from "react-easy-emoji";
 import html from "./assets/images/html.png";
 import css from "./assets/images/css.png";
 import sass from "./assets/images/sass.png";
-import tailwind from "./assets/images/tailwind.png";
 import javascript from "./assets/images/javascript.png";
 import typescript from "./assets/images/typescript.png";
 import react from "./assets/images/react.png";
@@ -18,8 +17,6 @@ import graphql from "./assets/images/graphql.png";
 
 import musicopyImg from "./assets/images/Musicopy-image.png";
 import blogImg from "./assets/images/React-blog-image.png";
-import searchGifImg from "./assets/images/Search-gif.png";
-import todoappImg from "./assets/images/Todoapp-image.png";
 import memotestPokemonImg from "./assets/images/Memotest-image.png";
 import rickAndMorty from "./assets/images/Rick-and-Morty.png";
 
@@ -31,18 +28,11 @@ const greeting = {
   username: "Lautaro Perez H.",
   title: "Hi all, I'm Lautaro",
   subTitle: emoji(
-    "A passionate Front-end Developer with backend knowledge 🚀 having an experience of building Webs with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks"
+    "A passionate Front-end Developer with backend knowledge from Argentina 🚀 having an experience of building Webs with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks. I like problem solving, teamworking, self-taught learning and carrying out web projects."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
   displayGreeting: true
-};
-
-const aboutMe = {
-  title: "About me",
-  subtitle: "Lautaro Perez Herrera",
-  description:
-    "My name is Lautaro Perez Herrera a Front-end Developer from Argentina. I am 17 years old. I like solving problems, teamworking and carrying out web projects. I haven't got any job experiencie yet. I like self-taught learning and I have no problem to using new technologies, getting out of my comfort zone."
 };
 
 const socialMediaLinks = {
@@ -76,31 +66,19 @@ const mainProjects = [
     urlCode: "https://github.com/lautaroPH/memotestPokemon"
   },
   {
-    title: "Rick and Morty",
-    image: rickAndMorty,
-    urlPage: "https://rick-and-morty-theta-three.vercel.app",
-    urlCode: "https://github.com/lautaroPH/rickAndMorty"
+    title: "Musicopy",
+    image: musicopyImg,
+    urlPage: "https://musicopy-02.vercel.app",
+    urlCode: "https://github.com/lautaroPH/musicopy"
   }
 ];
 
 const moreProjects = [
   {
-    title: "Musicopy",
-    image: musicopyImg,
-    urlPage: "https://musicopy-02.vercel.app",
-    urlCode: "https://github.com/lautaroPH/musicopy"
-  },
-  {
-    title: "Search Gifs",
-    image: searchGifImg,
-    urlPage: "https://lautaroph.github.io/react-gifexpertapp/",
-    urlCode: "https://github.com/lautaroPH/react-gifexpertapp"
-  },
-  {
-    title: "Todoapp",
-    image: todoappImg,
-    urlPage: "https://lautaroph.github.io/Todo-app/",
-    urlCode: "https://github.com/lautaroPH/Todo-app"
+    title: "Rick and Morty",
+    image: rickAndMorty,
+    urlPage: "https://rick-and-morty-theta-three.vercel.app",
+    urlCode: "https://github.com/lautaroPH/rickAndMorty"
   }
 ];
 
@@ -125,10 +103,6 @@ const skillsSection = {
     {
       skillName: "Sass",
       image: sass
-    },
-    {
-      skillName: "Tailwind",
-      image: tailwind
     },
     {
       skillName: "JavaScript",
@@ -184,7 +158,6 @@ const contactInfo = {
 
 export {
   illustration,
-  aboutMe,
   greeting,
   socialMediaLinks,
   skillsSection,

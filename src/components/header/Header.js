@@ -24,9 +24,6 @@ function Header() {
         </label>
         <ul className="menu">
           <li>
-            <a href="#aboutMe">About Me</a>
-          </li>
-          <li>
             <a href="#portfolio">Portfolio</a>
           </li>
           {viewSkills && (

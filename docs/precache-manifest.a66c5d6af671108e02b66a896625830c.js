@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58077a5ba06d27faa2487ba29516fa47",
+    "revision": "314550f9f797d9f070ac377a59d33b60",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "ae70aeb96a2b2549243e",
-    "url": "/Portfolio/static/css/main.1a22b08c.chunk.css"
+    "revision": "5fb71a0b0c8855a5aabd",
+    "url": "/Portfolio/static/css/main.7a2dcc62.chunk.css"
   },
   {
-    "revision": "0a0f7bc78f85b6fb5bc1",
-    "url": "/Portfolio/static/js/2.4a9caf3f.chunk.js"
+    "revision": "6d3bac5cc2c169d80d11",
+    "url": "/Portfolio/static/js/2.3eb32bad.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/Portfolio/static/js/2.4a9caf3f.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.3eb32bad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae70aeb96a2b2549243e",
-    "url": "/Portfolio/static/js/main.3921c835.chunk.js"
+    "revision": "5fb71a0b0c8855a5aabd",
+    "url": "/Portfolio/static/js/main.c205e4e4.chunk.js"
   },
   {
     "revision": "f018865fc09abe7d9514",
@@ -50,14 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6eda28447b15dde5d65582cd870d0f00",
     "url": "/Portfolio/static/media/Rick-and-Morty.6eda2844.png"
-  },
-  {
-    "revision": "00b5da5830c1ab658a83ed485bc0c267",
-    "url": "/Portfolio/static/media/Search-gif.00b5da58.png"
-  },
-  {
-    "revision": "323b3ea102a1fe2008efb3ca9d53dcd7",
-    "url": "/Portfolio/static/media/Todoapp-image.323b3ea1.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
