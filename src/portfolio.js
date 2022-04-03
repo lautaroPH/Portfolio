@@ -84,24 +84,17 @@ const moreProjects = [
 
 const skillsSection = {
   title: "Skills",
-  skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Integration of third party services such as Firebase")
-  ],
-
   softwareSkills: [
     {
-      skillName: "Html-5",
+      skillName: "HTML",
       image: html
     },
     {
-      skillName: "Css3",
+      skillName: "CSS",
       image: css
     },
     {
-      skillName: "Sass",
+      skillName: "SASS",
       image: sass
     },
     {
@@ -133,7 +126,7 @@ const skillsSection = {
       image: mongodb
     },
     {
-      skillName: "Graphql",
+      skillName: "GraphQl",
       image: graphql
     },
     {
