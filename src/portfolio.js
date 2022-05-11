@@ -14,6 +14,7 @@ import firebase from "./assets/images/firebase.png";
 import git from "./assets/images/git.png";
 import express from "./assets/images/express.png";
 import graphql from "./assets/images/graphql.png";
+import shareit from "./assets/images/shareit.png";
 
 import musicopyImg from "./assets/images/Musicopy-image.png";
 import blogImg from "./assets/images/React-blog-image.png";
@@ -54,10 +55,10 @@ const socialMediaLinksToContact = {
 
 const mainProjects = [
   {
-    title: "Blog",
-    image: blogImg,
-    urlPage: "https://lautaroph.github.io/react-blog/",
-    urlCode: "https://github.com/lautaroPH/react-blog"
+    title: "Shareit",
+    image: shareit,
+    urlPage: "https://shareweb.vercel.app",
+    urlCode: "https://github.com/lautaroPH/shareit"
   },
   {
     title: "Memotest Pokemon",
@@ -74,6 +75,12 @@ const mainProjects = [
 ];
 
 const moreProjects = [
+  {
+    title: "Blog",
+    image: blogImg,
+    urlPage: "https://lautaroph.github.io/react-blog/",
+    urlCode: "https://github.com/lautaroPH/react-blog"
+  },
   {
     title: "Rick and Morty",
     image: rickAndMorty,
