@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e609727c4ad81c4ab7598f6324c17e3",
+    "revision": "5b2c458ac0427eb8be16960477c9304f",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "ffc61bbb9a86e6cc915b",
-    "url": "/Portfolio/static/css/main.3997fd27.chunk.css"
+    "revision": "19a95decdc5faa3077ac",
+    "url": "/Portfolio/static/css/main.9a214be7.chunk.css"
   },
   {
-    "revision": "06dd02bc58737ca07b01",
-    "url": "/Portfolio/static/js/2.e8a72be6.chunk.js"
+    "revision": "9aad7c49ef7eb97877ad",
+    "url": "/Portfolio/static/js/2.ab222300.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/Portfolio/static/js/2.e8a72be6.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.ab222300.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ffc61bbb9a86e6cc915b",
-    "url": "/Portfolio/static/js/main.aa7026b4.chunk.js"
+    "revision": "19a95decdc5faa3077ac",
+    "url": "/Portfolio/static/js/main.4b671a05.chunk.js"
   },
   {
     "revision": "f018865fc09abe7d9514",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "0b1473a85f444ef69811f112d78794a9",
-    "url": "/Portfolio/static/media/CV-LautaroPerezHerrera.d4353ce7.0b1473a8.pdf"
+    "revision": "d96542f1f6abc10059ebbe2459ffb7d9",
+    "url": "/Portfolio/static/media/CV-LautaroPerezHerrera.d4353ce7.d96542f1.pdf"
   },
   {
     "revision": "f0ff21b70ba9bed2943464e0e4e3c560",
@@ -98,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f2ea6237d466de1912f95dd687a3aa23",
     "url": "/Portfolio/static/media/shareit.f2ea6237.png"
+  },
+  {
+    "revision": "3dd04cb6d06be5a8b8b493e2a3133465",
+    "url": "/Portfolio/static/media/whoIsThatPokemon.3dd04cb6.png"
   }
 ]);

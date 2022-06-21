@@ -15,11 +15,11 @@ import git from "./assets/images/git.png";
 import express from "./assets/images/express.png";
 import graphql from "./assets/images/graphql.png";
 import shareit from "./assets/images/shareit.png";
-
 import musicopyImg from "./assets/images/Musicopy-image.png";
 import blogImg from "./assets/images/React-blog-image.png";
 import memotestPokemonImg from "./assets/images/Memotest-image.png";
 import rickAndMorty from "./assets/images/Rick-and-Morty.png";
+import whoIsThatPokemon from "./assets/images/whoIsThatPokemon.png";
 
 const illustration = {
   animated: true
@@ -67,25 +67,31 @@ const mainProjects = [
     urlCode: "https://github.com/lautaroPH/memotestPokemon"
   },
   {
-    title: "Musicopy",
-    image: musicopyImg,
-    urlPage: "https://musicopy-02.vercel.app",
-    urlCode: "https://github.com/lautaroPH/musicopy"
+    title: "Who is that pokemon",
+    image: whoIsThatPokemon,
+    urlPage: "https://who-is-that-pokemon-blue.vercel.app",
+    urlCode: "https://github.com/lautaroPH/whoIsThatPokemon"
   }
 ];
 
 const moreProjects = [
   {
-    title: "Blog",
-    image: blogImg,
-    urlPage: "https://lautaroph.github.io/react-blog/",
-    urlCode: "https://github.com/lautaroPH/react-blog"
+    title: "Musicopy",
+    image: musicopyImg,
+    urlPage: "https://musicopy-02.vercel.app",
+    urlCode: "https://github.com/lautaroPH/musicopy"
   },
   {
     title: "Rick and Morty",
     image: rickAndMorty,
     urlPage: "https://rick-and-morty-theta-three.vercel.app",
     urlCode: "https://github.com/lautaroPH/rickAndMorty"
+  },
+  {
+    title: "Blog",
+    image: blogImg,
+    urlPage: "https://lautaroph.github.io/react-blog/",
+    urlCode: "https://github.com/lautaroPH/react-blog"
   }
 ];
 
